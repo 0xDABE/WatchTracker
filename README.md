@@ -1,5 +1,6 @@
 #     WatchTracker
   Allows you to track the progress of series or movies
+  [![N|Solid](https://github.com/0xDABE/WatchTracker/blob/main/Screenshot_1.png?raw=true)](https://github.com/0xDABE/WatchTracker/blob/main/Screenshot_1.png?raw=true)
 
 # Requirements
 - [JDK 17](https://www.oracle.com/uk/java/technologies/downloads/) or higher
