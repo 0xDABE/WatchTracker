@@ -97,7 +97,11 @@ trk --help
 # Usage
 
 - open terminal in root media directory
-- run `trk` script in this directory
+- run
+  ```bash
+  trk
+  ```
+  in this directory
 - when launched first time, it will parse all files durations and put them to a new file
 - have fun
 
