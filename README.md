@@ -4,8 +4,9 @@
 # Requirements
 - [JDK 17](https://www.oracle.com/uk/java/technologies/downloads/) or higher
 - [ffmpeg](https://github.com/FFmpeg/FFmpeg) binary in OS PATH
+- Any media-player that can be run from terminal (must be in OS PATH as ffmpeg, [mpv](https://mpv.io/) for example)
 - Terminal that supports ANSI escape chars (Konsole, Windows Terminal)
-- Any media-player that can be run from terminal (must be in OS PATH as ffmpeg)
+
 
 # Before start
 
