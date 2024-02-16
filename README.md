@@ -1,4 +1,5 @@
 #     WatchTracker
+  Allows you to track the progress of series or movies
 
 # Requirements
 - [JDK 17](https://www.oracle.com/uk/java/technologies/downloads/) or higher
