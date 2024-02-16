@@ -111,4 +111,4 @@ trk --help
 
 # Extra
 - Command line arguments have more priority than config file settings
-
+- Yellow time is a disk latency
